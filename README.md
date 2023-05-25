@@ -27,7 +27,7 @@ Junoir Frontend-разработчик
 
 <p align="left"> 
 <a href="https://www.github.com/Dekam1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/Dekam1" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/796/866/png-transparent-chat-shubhambhatia-social-media-telegram-thevectorframe-internet-icon-thumbnail.png" width="32" height="32" /></a>
+<a href="https://www.github.com/Dekam1" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/966/241/png-transparent-white-paper-plane-illustration-telegram-logo-computer-icons-telegram-miscellaneous-blue-angle.png" width="32" height="32" /></a>
 </p>
 
 
