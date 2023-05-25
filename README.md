@@ -5,7 +5,7 @@ Junoir Frontend-разработчик
 ---------------------------
 
 * 🌍  Город: Уфа
-* 🖥️  Портфолио [*Клик*](http://dffdfdfdfdfdfdfdffddffdfdfdfdf)
+* 🖥️  Портфолио [*клик*](http://dffdfdfdfdfdfdfdffddffdfdfdfdf)
 * ✉️  e-mail: [ildararslavov10@gmail.com](mailto:ildararslavov10@gmail.com)
 
 ### Технологии и инструменты
@@ -27,8 +27,7 @@ Junoir Frontend-разработчик
 
 <p align="left"> <a href="https://www.github.com/Dekam1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Статистика
 
-<b>Статистика</b>
 
 <a href="http://www.github.com/Dekam1"><img src="https://github-readme-stats.vercel.app/api?username=Dekam1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dekam1's GitHub stats" /></a>
