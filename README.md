@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junoir Frontend-разработчик
 ---------------------------
 
-* 🌍  I'm based in Уфа
-* 🖥️  See my portfolio at [портфолио](http://dffdfdfdfdfdfdfdffddffdfdfdfdf)
-* ✉️  You can contact me at [ildararslavov10@gmail.com](mailto:ildararslavov10@gmail.com)
+* 🌍  Я живу в городе Уфа
+* 🖥️  Портфолио [портфолио](http://dffdfdfdfdfdfdfdffddffdfdfdfdf)
+* ✉️  e-mail [ildararslavov10@gmail.com](mailto:ildararslavov10@gmail.com)
 
-### Skills
+### Технологии и инструменты
 
 
 <p align="left">
